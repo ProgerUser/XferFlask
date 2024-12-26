@@ -5,8 +5,6 @@ import json
 import time
 import uuid
 from base64 import b64encode
-from types import SimpleNamespace
-
 import simplejson as json
 from Crypto.Hash import SHA256
 from Crypto.PublicKey import RSA
